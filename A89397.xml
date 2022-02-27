@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mournfull cryes of many thousand poore tradesmen, who are ready to famish through decay of trade. Or, the warning teares of the oppressed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89397</idno>
+            <idno type="STC">Wing M2985</idno>
+            <idno type="STC">Thomason 669.f.11[116]</idno>
+            <idno type="STC">ESTC R210749</idno>
+            <idno type="EEBO-CITATION">99869507</idno>
+            <idno type="PROQUEST">99869507</idno>
+            <idno type="VID">162767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162767)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[116])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mournfull cryes of many thousand poore tradesmen, who are ready to famish through decay of trade. Or, the warning teares of the oppressed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 22th 47".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  England --  Early works to 1800.</term>
+               <term>London (England) --  Economic conditions --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:162767:1" rendition="simple:additions"/>
+            <head>¶ The mournfull Cryes of many thouſand Poore Tradeſmen, who are ready to famiſh through decay of Trade. <hi>Or, the warning Teares of the Oppreſſed.</hi>
+            </head>
+            <p>OH that the cravings of our Stomacks could bee heard by the Parliament and City! Oh that the Teares of our poore famiſhing Babes were botled! Oh that their tender Mothers Cryes for bread to feed them were ingraven in braſſe! Oh that our pined Carkaſſes were open to every pittifull Eye! Oh that it were knowne, that wee ſell our Beds and cloaths for Bread! Oh our Hearts faint and wee are ready to ſwoone in the top of every Street.</p>
+            <p>O you Members of Parliament and rich men in the City, that are at eaſe, and drinke Wine in Bowles, and ſtretch your ſelves upon Beds of downe, you that grind our faces and Flay off our skins, will no man amongſt you regard, will no man behold our faces black with Sorrow and Famine, is there none to Pity. The Sea monſter drawes out the breſt and gives ſuck to their young ones, and are our Rulers become cruell <hi>like</hi> the Oſtrich in the Wilderneſſe, <hi>Lament.</hi> 4. 3.</p>
+            <p>OH yee Great men of ENGLAND, will not (thinke you) the righteous GOD behold our Affliction, doth not hee take notice that you devour us as if our Fleſh were Bread? are not moſt of you eyther Parliament-men, Commitee-men, Cuſtomers, Excize-men, Treaſurers, Gouernonrs of Townes and Caſtles, or Commanders in the Army, Officers in thoſe Dens of Robbery the Courts of Law? and are not your Kinſmen and allies, Collectors of the Kings revenue, or the Biſhops rents, or Sequeſtrators? what then are your ruffling Silkes and Velvets, and your glittering Gold and Silver Laces, are they not the ſweat of our Browes, and the wants of our backes and bellies?</p>
+            <p>Its your Taxes, Cuſtomes, and Excize, that compells the Country to raiſe the price of Food, and to buy nothing from us but meere abſolute neceſſaries; and then you of the City that buy our Worke, muſt have your Tables furniſhed, and your Cups o<g ref="char:EOLhyphen"/>verflow; and therefore will give us little or nothing for our Worke, even what you <note n="*" place="margin">And ſince the late Lord Ma<g ref="char:EOLhyphen"/>jor <hi>Adams,</hi> you have put in exccution an illegall, wicked Decree of the Common Coun<g ref="char:EOLhyphen"/>cell; whereby you have taken our goods from us, if we have gone to the Innes to ſell them to Countrimen; and you have murdered ſome of our poore wives, that have gone to Innes to find Cuontrsmen to b<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie them.</note> pleaſe, becauſe you know wee muſt ſell for monyes to ſet our Families on worke, or elſe wee famiſh: Thus our Fleſh is that whereupon you Rich men live, and where<g ref="char:EOLhyphen"/>with you decke and adorne your ſelves. Yee great men, is it not your Plenty and abundance which begets you Pride and Riot? and doe not your Pride beget Ambition, and your ambition Faction, and your fact on theſe Civill broyles; what elſe but your Ambition and Faction continue our Diſtractions and Oppreſſions? Is not all the Controverſie whoſe <hi>Slanes</hi> the poore ſhall bee? Whether they ſhall be the Kings vaſſalles, or the Presbyterians, or the Independant factions? and is not the Contention nouriſhed, that you whoſe Houſes are full of the ſpoiles of your Countrey, might be ſecure from Accompts, while there is nothing but Diſtraction, and that by the tumultuouſneſſe of the People under prodig ousoppreſſion, you might have faire Pretences to keepe up an Army, and Garriſons, and that under pretence of neceſſitie you may uphold your arbitrary Government by Com<g ref="char:EOLhyphen"/>mittees, &amp;c.</p>
+            <p>Have you not upon ſuch pretences brought an Army into the bowels of the City, and now Exchange doth riſe already be<g ref="char:EOLhyphen"/>yond Sea, and no Marchants beyond Sea will truſt their Goods hither, and our owne Marchants conveigh their <note n="*" place="margin">The Merchants have already kept back from the Tower, many hundred thouſand pounds, and no bullion is brought into the Tower, ſo that money will be more ſcarce daily.</note> Eſtates from hence, ſo there is likely to bee no importing of Goods, and then there will be no Exporting, and then our Trade will bee ut<g ref="char:EOLhyphen"/>terly Loſt, and our Families periſh as it were in a moment.</p>
+            <p>O yee Parliament men heare our dying Cry, <hi>Settle the Common-wealth, ſettle the Common-wealth! ſtrive not who ſhall bee greateſt untill you be all confounded.</hi> You may if you will preſently determine where the ſupreame Power reſides, and ſettle the Iuſt common Freedomes of the Nation, ſo that all Parties may equally receive Iuſtice and injoy their Right, and every one may bee as much concerned as other to deſend thoſe common Freedomes; you may preſently put downe your Arbitrary Committees and let us be Governed by plaine written Lawes in our owne Tongue, and pay your miniſters of Iuſtice out of a common, Treaſurie, that every one may have Iuſtice freely and impartially.</p>
+            <p>You have in your hands the Kings, Queenes, and Princes revenue, and Papiſts Lands, and Biſhops, and Deanes, and Chap<g ref="char:EOLhyphen"/>ters lands, and Sequeſtred lands, at leaſt to the value of Eighteene hundred thouſand Pounds by the yeare. Which is at leaſt five hundred Thouſand pounds a yeare more then will pay the Navie and all the Army, and the Forces which need to bee kept up in <hi>Engl<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd</hi> and <hi>Ireland;</hi> and out of that the Kingdomes debts would bee payd yearely; whereas now you runne fur<g ref="char:EOLhyphen"/>ther into Debt daily, and pay One thouſand pounds by the Day at leaſt for uſe Money; beſides you may if you will Proclaime Liberty, for all to come and diſcover to a Committee of diſ-ingaged men, choſen out of every County, one for a County to diſcover to them what Monies and Treaſure, your owne Members and your Sequeſtrators, &amp;c. have in their hands, and you may by that meanes find many Millions of money to pay the Publique debts. You may find 30000. l. in Mr. <hi>Richard Dar<g ref="char:EOLhyphen"/>ley's</hi> hand 25000. l. in Mr. <hi>Thorpes</hi> hands <note n="*" place="margin">M <hi>William Lenthall,</hi> Speaker of the Houſe, to cover his co<g ref="char:EOLhyphen"/>zenage, gave two and twenty thouſand pounds to his ſervant M. <hi>Cole,</hi> to purchaſe Land in his own name, though for his uſe; which hee did, and then dyed ſuddenly, and the Land fell to his Sonne, and the widow having married a Lawyer, keeps the Land for the childs uſe, and ſaith he knowes not that his predeceſ for received any monie from the Speaker, and now Maſter Speaker ſueth in Chancery for the Land. A hundred ſuch diſ<g ref="char:EOLhyphen"/>coveries might be made.</note>, a Member of Yours who firſt Proclaimed Sir <hi>John Hotham</hi> Traytor. And thus you may take off all Taxes preſently, and ſo ſecure Peace, that Trading may revive and our Pining, hungry, famiſhing Fami<g ref="char:EOLhyphen"/>lies bee ſaved.</p>
+            <p>And O yee Souldiers who refuſed to Disband, becauſe you would have Iuſtice and Freedome, who Cryed till the Earth ec<g ref="char:EOLhyphen"/>choed Iuſtice, Iuſtice; forget not that Cry, but cry ſpeedily for Peace and Iuſtice, Louder then ever. There is a large Peti<g ref="char:EOLhyphen"/>tion of ſome pitifull men that's now a broad, which containes all our deſires, and were that Granted in all things, wee ſhould have Trading againe, and ſhould not need to begge our Bread, though thoſe men have ſo much mercy as they would have none to cry in the ſtreets for Bread.</p>
+            <p>Oh though you bee Souldiers, ſhew bowels of Mercy and Pity to a hunger ſtarved People; Goe downe to the Parliament, deſire them to conſume and trifle away no more time, but offer your deſires for Vs in that large Petition, and cry Iuſtice, Iu<g ref="char:EOLhyphen"/>ſtice; Save, ſave, ſave the Periſhing people; O cry thus till your importunity make them heare you.</p>
+            <p>O Parliament men, and Souldiers! <hi>Neceſſity diſſolves all Lawes and Government,</hi> and <hi>Hunger will breake through ſtone walls,</hi> Tender Mothers will ſooner devoure You, then the Fruit of their owne wombe, and hunger re<g ref="char:EOLhyphen"/>gards no Swords nor Cannons. It may be ſome great oppreſſours intends tumults that they may eſcape in a croud, but your food may then be wanting as well as ours, and your Armes will bee hard diet. O hearke, hearke at our do<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res how our chil<g ref="char:EOLhyphen"/>dren cry <hi>Bread, bread, bread,</hi> and we now with bleeding hearts, cry, once more to you, pity, pity, an oppreſſed inſlaved people: carry our cries in the large petition to the Parliament, and tell them if they bo ſtill deafo; the Teares of the op<g ref="char:EOLhyphen"/>preſſed will waſh away the foundations of their houſes. Amen, Amen ſo be it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
